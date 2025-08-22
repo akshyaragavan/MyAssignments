@@ -36,29 +36,3 @@ public class FibonacciSeries {
 
 }
 }
-
-		/*int n = 10; // Number of Fibonacci terms to generate
-
-        // Initialize the first two terms
-        int firstTerm = 0;
-        int secondTerm = 1;
-
-        System.out.print("Fibonacci Series up to " + n + " terms: ");
-
-        // Handle the cases for 0 or 1 terms
-        if (n >= 1) {
-            System.out.print(firstTerm);
-        }
-        if (n >= 2) {
-            System.out.print(", " + secondTerm);
-        }
-
-        // Generate subsequent terms
-        for (int i = 2; i < n; i++) {
-            int nextTerm = firstTerm + secondTerm;
-            System.out.print(", " + nextTerm);
-            firstTerm = secondTerm;
-            secondTerm = nextTerm;
-        }
-    }
-}*/
