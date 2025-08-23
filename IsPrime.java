@@ -5,7 +5,7 @@ public class IsPrime {
 	public static void main(String[] args) {
 	
 		//initialize the input variable
-		int num=67;
+		int num=17;
 	
 		for(int i=2;i<=num;i++)
 		{
